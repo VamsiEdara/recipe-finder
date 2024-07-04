@@ -14,4 +14,4 @@ This is built using HTML , TailwindCSS , ReactJS.
 
 Link : 
 
-![Website Image] (/Screenshot_29.png)
+![Website Image] (./Screenshot_29.png)
