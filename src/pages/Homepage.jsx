@@ -1,8 +1,17 @@
 // import React from "react";
+import { useState, useEffect } from "react";
 import { Search } from "lucide-react";
 import RecipeCard from "../components/RecipeCard";
 
+const APP_ID = "71f28532";
+const APP_KEY = "7523775e08b3305beb1e8dcfdc3375da";
+
 const Homepage = () => {
+  const [recipes, setRecipes] = useState([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {}, []);
+
   return (
     <div className="bg-[#faf9fb] p-10 flex-1">
       <div className="max-w-screen-lg mx-auto">
