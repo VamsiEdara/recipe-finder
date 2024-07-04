@@ -1,6 +1,6 @@
 // import React from "react";
-
 import { Search } from "lucide-react";
+import RecipeCard from "../components/RecipeCard";
 
 const Homepage = () => {
   return (
@@ -23,6 +23,12 @@ const Homepage = () => {
         <p className="text-slate-500 font-semibold ml-1 my-2 text-sm tracking-tight ">
           Popular choices
         </p>
+        {/* for small --> c0l-1, md --> col-2 , lg--> col-3  */}
+        <div className="grid gap-3 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+          <RecipeCard />
+          <RecipeCard />
+          <RecipeCard />
+        </div>
       </div>
     </div>
   );
