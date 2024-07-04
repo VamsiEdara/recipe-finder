@@ -1,6 +1,6 @@
 # Recipe Finder
 
-## Description 
+## Build With
 This is built using HTML , TailwindCSS , ReactJS.
 
 
@@ -12,7 +12,43 @@ This is built using HTML , TailwindCSS , ReactJS.
 
 ### Website
 
-Link : 
+#### Link : <https://recipe-finder-vamsi.vercel.app/>
+
+
 ![Screenshot_29](https://github.com/VamsiEdara/recipe-finder/assets/96575839/e0174128-d301-453b-a1fd-fd7a9c8e8c3e)
 
 
+### Run Locally 
+
+
+**Clone the repo:**
+
+```bash
+git clone
+```
+
+**Install the dependencies:**
+
+```bash
+npm install
+```
+
+**Setup .env file**
+
+```bash
+VITE_APP_ID = your_edamam_app_id;
+VITE_APP_KEY = your_edamam_app_key;
+```
+
+**Start the app**
+
+```bash
+npm run dev
+```
+
+
+#### References 
+
+- [Edamam-API](https://www.edamam.com/)
+- [Icons](https://lucide.dev/)
+- [Skeleton_UI ](https://daisyui.com/components/skeleton/)
