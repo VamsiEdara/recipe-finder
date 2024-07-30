@@ -16,13 +16,13 @@ This is built using HTML , TailwindCSS , ReactJS.
 
 
 ### Link : <https://recipe-finder-vamsi.vercel.app/>
+![undefined - Imgur](https://github.com/user-attachments/assets/48b76217-f0c0-4aae-8d79-5daad8a3cff4)
 
 
 
 ![Screenshot_29](https://github.com/VamsiEdara/recipe-finder/assets/96575839/e0174128-d301-453b-a1fd-fd7a9c8e8c3e)
 
 
-![undefined - Imgur](https://github.com/user-attachments/assets/48b76217-f0c0-4aae-8d79-5daad8a3cff4)
 
 ### Run Locally 
 
