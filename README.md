@@ -1,7 +1,7 @@
 # Recipe Finder
 
 ## Build With
-![undefined - Imgur](https://github.com/user-attachments/assets/48b76217-f0c0-4aae-8d79-5daad8a3cff4)
+
 This is built using HTML , TailwindCSS , ReactJS.
 
 
